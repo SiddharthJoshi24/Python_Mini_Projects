@@ -1,2 +1,2 @@
-# PYTHON-PRACTICE
-This is for viewing my practice on Python
+# PYTHON-Mini-Series
+A few mini projects testing the various features and function available in python.
